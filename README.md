@@ -48,7 +48,7 @@ Aprofundando conhecimentos em Machine Learning e Modelagem Preditiva
 Explorando Big Data com PySpark e arquiteturas de dados escaláveis
 Desenvolvendo projetos com foco em impacto de negócio e storytelling com dados
 📫 Vamos nos conectar?
-LinkedIn [www.linkedin.com/in/julimar-oliveira-59984a1a4]
+LinkedIn [www.linkedin.com/in/julimarpoliveira]
 
 GitHub
 
