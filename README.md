@@ -1,55 +1,49 @@
-👋 Olá, eu sou Julimar Oliveira
-Cientista e Analista de Dados com foco em Machine Learning, Big Data e Analytics aplicados a negócios reais.
+# 👋 Olá! Sou o Julimar Oliveira
 
-Tenho experiência prática com projetos nas áreas de Fintech, E-commerce e Mercado Financeiro, desenvolvendo soluções que vão desde modelos preditivos de churn até análises de performance com grandes volumes de dados usando PySpark.
+### **Analista de Dados & Business Intelligence | SQL • Python • PySpark • Power BI • Looker Studio**
 
-Acredito que dados bem analisados transformam decisões — e é isso que busco entregar em cada projeto.
+Combino mais de 15 anos de bagagem em **Gestão Estratégica, Financeira e Comercial** com especialização técnica em engenharia e análise de dados. Desenvolvo pipelines de dados end-to-end, dashboards executivos e modelos preditivos com foco direto em retenção de caixa, eficiência operacional e suporte à tomada de decisão.
 
-🚀 O que faço
-🔍 Análise Exploratória de Dados (EDA) com foco em insights de negócio
-🤖 Machine Learning — modelos de classificação, regressão e clustering
-🐘 Big Data com PySpark — processamento e análise de grandes volumes de dados
-📊 Dashboards e Visualização — Power BI, Matplotlib, Seaborn, Plotly
-📈 Análise Estatística aplicada a E-commerce e comportamento de clientes
-🏦 Análise Financeira — retorno acumulado, volatilidade e correlação entre ativos
-🛠️ Stack Técnica
-Linguagens & Dados
-Python SQL PySpark
+---
 
-Machine Learning & Análise
-Scikit-learn Pandas NumPy
+### 🛠️ Stack Técnica & Ferramentas
 
-Visualização & BI
-Power BI Matplotlib Seaborn
+* **Linguagens & Manipulação:** Python (Pandas, NumPy), SQL, PySpark, DAX
+* **BI & Data Viz:** Power BI, Google Looker Studio, Matplotlib, Seaborn, Plotly
+* **Engenharia & Arquitetura:** Ingestão via APIs, ETL, Modelagem Relacional, Git & GitHub
+* **Analytics & Negócio:** Análise Exploratória (EDA), Machine Learning (Classificação/Churn), Estatística Descritiva, DRE, Fluxo de Caixa e S&OP
 
-Ferramentas
-Jupyter Git GitHub VS Code
+---
 
-📌 Projetos em Destaque
-🏦 Análise Preditiva de Churn — Fintech
-Modelo de Machine Learning (Random Forest) para identificação de clientes propensos à evasão em uma Fintech. Pipeline completo: EDA → tratamento → modelagem → avaliação → estratégias de retenção. Python Scikit-learn Random Forest Machine Learning
+### 📌 Projetos em Destaque (Portfólio)
 
-🐘 Análise Financeira com PySpark
-Análise de ativos financeiros com Big Data usando Apache Spark. Inclui volatilidade, retorno acumulado e correlação entre ativos do setor de tecnologia. PySpark Big Data Análise Financeira Apache Spark
+#### 💳 [Análise Preditiva de Churn & Retenção — Fintech](https://github.com/julimarpoliveira2902/analise-preditiva-churn-fintech)
+Modelagem preditiva em Machine Learning (*Random Forest*) para identificação antecipada de evasão de clientes em uma fintech. Foco na mitigação do desbalanço de dados (F1-Score) e direcionamento cirúrgico de campanhas de CRM.
+* **Stack:** Python, Scikit-learn, Pandas, Looker Studio.
 
-🚲 Google Data Analytics — Cyclistic Case Study
-Case study completo do Certificado Profissional Google Data Analytics. Análise do comportamento de usuários casuais vs. membros anuais de uma empresa de bike-sharing. Python Google Analytics EDA Visualização
+#### 📊 [Pipeline de Inteligência em Planejamento de Demanda & S&OP](https://github.com/julimarpoliveira2902/pipeline-planejamento-demanda-sop)
+Solução end-to-end com processamento distribuído em PySpark para limpeza, consolidação e cálculo automatizado de acurácia de demanda, mapeando vieses (BIAS) e gerando ações prescritivas entre Trade Marketing e Supply Chain.
+* **Stack:** PySpark, Python, Google Colab, Looker Studio.
 
-📊 Análise Estatística — E-commerce
-Análise estatística aplicada a dados de E-commerce, explorando padrões de comportamento, distribuições e métricas de negócio. Python Estatística EDA E-commerce
+#### 🛒 [Inteligência de Dados no E-Commerce: Performance Olist](https://github.com/julimarpoliveira2902/analise-performance-ecommerce-olist)
+Ciclo completo de ETL e Análise Exploratória (EDA) sobre uma base relacional com mais de 112 mil transações. Cruzamento de tabelas, engenharia de atributos e criação de dashboard em BI para monitoramento de receita e logística.
+* **Stack:** Python (Pandas, Matplotlib), Looker Studio.
 
-📈 Dashboard de Performance — E-commerce
-Dashboard interativo de monitoramento de indicadores de performance para E-commerce. Power BI Dashboard KPIs Visualização
+---
 
-📊 GitHub Stats
-![Julimar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julimarpoliveira2902&show_icons=true&theme=dark&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julimarpoliveira2902&layout=compact&theme=dark&hide_border=true)
-🌱 Atualmente
-Aprofundando conhecimentos em Machine Learning e Modelagem Preditiva
-Explorando Big Data com PySpark e arquiteturas de dados escaláveis
-Desenvolvendo projetos com foco em impacto de negócio e storytelling com dados
-📫 Vamos nos conectar?
-LinkedIn [www.linkedin.com/in/julimarpoliveira]
+### 🌱 Foco Atual & Aprendizado Contínuo
 
-GitHub
+* Aprofundamento em Engenharia de Dados, Pipelines Automatizados e Arquiteturas Escaláveis.
+* Desenvolvimento de soluções integradas de BI conectadas a sistemas ERP e bancos de dados institucionais.
+* Aplicação rigorosa de *Data Storytelling* para traduzir volumetria técnica em impacto financeiro e operacional.
 
-*"Dados bem analisados transformam decisões."*
+---
+
+### 📫 Vamos nos conectar?
+
+🤝 **LinkedIn:** [linkedin.com/in/julimarpoliveira](https://www.linkedin.com/in/julimarpoliveira)  
+📂 **GitHub:** [github.com/julimarpoliveira2902](https://github.com/julimarpoliveira2902)  
+✉️ **E-mail:** [julimarpoliveira@gmail.com](mailto:julimarpoliveira@gmail.com)
+
+---
+*"Dados bem analisados transformam decisões e geram resultados reais de negócio."*
